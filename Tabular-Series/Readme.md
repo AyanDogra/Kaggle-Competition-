@@ -15,4 +15,3 @@ Good luck and have fun!
 Getting Started
 Check out this Starter Notebook which walks you through how to make your very first submission!
 
-For more ideas on how to improve your score, check out the Intro to Machine Learning and Intermediate Machine Learning courses on Kaggle Learn.
